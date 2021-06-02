@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\sander.SDL\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\sander.SDL\\.nuget\\packages"
-    ]
-  }
-}
