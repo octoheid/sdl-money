@@ -1,2 +1,4 @@
 Backend
-NetBackend\API\app.config
+/API/app.config
+/API/bin/*
+/API/obj/*
